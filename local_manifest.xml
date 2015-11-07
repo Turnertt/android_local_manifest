@@ -6,6 +6,7 @@
     <!-- Device repos -->
     <!-- A series -->
     <project path="device/samsung/a5ultexx" name="MSM8916-Samsung/android_device_samsung_a5ultexx" revision="cm-12.1" />
+    <project path="device/samsung/a5ltedd" name="MSM8916-Samsung/android_device_samsung_a5ltedd" revision="cm-12.1" />
     <project path="device/samsung/a5-common" name="MSM8916-Samsung/android_device_samsung_a5-common" revision="cm-12.1" />
 
     <!-- SM-G3815 (wilcoxltexx) -->
