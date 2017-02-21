@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Remove Telecomm -->
-    <remove-project name="LingeageOS/android_packages_services_Telecomm" />
+    <remove-project name="LineageOS/android_packages_services_Telecomm" />
 
     <!-- Remove Qcom FM -->
     <remove-project name="LineageOS/android_hardware_qcom_fm" />
