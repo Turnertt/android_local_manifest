@@ -7,6 +7,9 @@
     <remove-project name="LineageOS/android_hardware_qcom_fm" />
 
     <!-- Device repos -->
+    <!-- Samsung msm8916 -->
+    <project path="device/samsung/msm8916-common" name="MSM8916-Samsung/android_device_samsung_msm8916-common" revision="cm-14.1" />
+
     <!-- coreprimeltexx -->
     <project path="device/samsung/coreprimeltexx" name="MSM8916-Samsung/android_device_samsung_coreprimeltexx" revision="cm-14.1" />
 
