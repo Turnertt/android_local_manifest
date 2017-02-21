@@ -1,1 +1,1 @@
-Repositories that are needed to build CyanogenMod 12.1 for Galaxy A5 (a5ultexx)
+Repositories that are needed to build LineageOS 14.1 for Samsung MSM8916 devices
