@@ -15,7 +15,7 @@
 
     <!-- Common device repos -->
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" />
-    <project path="device/qcom/common" name="LingeageOS/android_device_qcom_common" revision="cm-14.1" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
 
     <!-- Hardware 
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-13.0" />-->
@@ -25,8 +25,8 @@
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
     <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
 
-    <!-- CM replacements -->
-    <project path="packages/services/Telecomm" name="TheWhisp/android_packages_services_Telecomm" revision="cm-14.1" />
-    <project path="hardware/qcom/fm" name="TheWhisp/android_hardware_qcom_fm" revision="cm-14.1" />
+    <!-- LineageOS replacements -->
+    <project path="packages/services/Telecomm" name="MSM8916-Samsung/android_packages_services_Telecomm" revision="cm-14.1" />
+    <project path="hardware/qcom/fm" name="MSM8916-Samsung/android_hardware_qcom_fm" revision="cm-14.1" />
 </manifest>
 
