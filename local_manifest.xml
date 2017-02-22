@@ -24,6 +24,9 @@
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-13.0" />-->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-14.1" />
 
+    <!-- Vendor -->
+    <project path="vendor/qcom/opensource/wlan/prima" name="LineageOS/android_vendor_qcom_opensource_wlan_prima" revision="LA.UM.5.1_rb1.4" />
+
     <!-- Other -->
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
     <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
