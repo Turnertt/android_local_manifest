@@ -18,6 +18,9 @@
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-13.0" />-->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-14.1" />
 
+    <!-- Packages -->
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1" />
+
     <!-- Vendor -->
 
     <!-- Other -->
