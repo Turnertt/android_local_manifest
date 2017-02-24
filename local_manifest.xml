@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- Remove Telecomm -->
-    <remove-project name="LineageOS/android_packages_services_Telecomm" />
-
-    <!-- Remove Qcom FM -->
-    <remove-project name="LineageOS/android_hardware_qcom_fm" />
-
     <!-- Device repos -->
     <!-- Samsung msm8916 -->
     <project path="device/samsung/msm8916-common" name="MSM8916-Samsung/android_device_samsung_msm8916-common" revision="cm-14.1" />
@@ -25,14 +19,9 @@
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="cm-14.1" />
 
     <!-- Vendor -->
-    <project path="vendor/qcom/opensource/wlan/prima" name="LineageOS/android_vendor_qcom_opensource_wlan_prima" revision="LA.UM.5.1_rb1.4" />
 
     <!-- Other -->
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
     <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
-
-    <!-- LineageOS replacements -->
-    <project path="packages/services/Telecomm" name="MSM8916-Samsung/android_packages_services_Telecomm" revision="cm-14.1" />
-    <project path="hardware/qcom/fm" name="MSM8916-Samsung/android_hardware_qcom_fm" revision="cm-14.1" />
 </manifest>
 
