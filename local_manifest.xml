@@ -8,7 +8,7 @@
     <project path="device/samsung/coreprimeltexx" name="MSM8916-Samsung/android_device_samsung_coreprimeltexx" revision="cm-14.1" />
 
     <!-- Kernels -->
-    <project path="kernel/samsung/coreprimeltexx" name="MSM8916-Samsung/android_kernel_samsung_coreprimeltexx" revision="cm-14.1" />
+    <project path="kernel/samsung/msm8916" name="MSM8916-Samsung/android_kernel_samsung_msm8916" revision="cm-14.1" />
 
     <!-- Common device repos -->
     <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" revision="cm-14.1" />
