@@ -5,7 +5,7 @@
     <project path="device/samsung/msm8916-common" name="MSM8916-Samsung/android_device_samsung_msm8916-common" revision="cm-14.1" />
 
     <!-- coreprimeltexx -->
-    <project path="device/samsung/coreprimeltexx" name="MSM8916-Samsung/android_device_samsung_coreprimeltexx" revision="cm-14.1" />
+    <project path="device/samsung/coreprimeltexmtr" name="MSM8916-Samsung/android_device_samsung_coreprimeltemtr" revision="cm-14.1" />
 
     <!-- Kernels -->
     <project path="kernel/samsung/msm8916" name="MSM8916-Samsung/android_kernel_samsung_msm8916" revision="cm-14.1" />
@@ -22,7 +22,7 @@
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1" />
 
     <!-- Vendor -->
-
+    <project name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" revision="master" />
     <!-- Other -->
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-14.1" />
     <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
